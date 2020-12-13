@@ -1,2 +1,2 @@
-# Movie_reservation_system
-This is a CLI Python My
+# Movie Reservation System
+This is a CLI Python MySQL application for reserving movie tickets.
